@@ -18,7 +18,7 @@ const EmployeesAddForm = () => {
 				</button>
 			</form>
 		</div>
-)
+	)
 }
 
 export default EmployeesAddForm;
